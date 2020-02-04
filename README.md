@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hello Zone
+
+As you can see this is a create react app
+
+First you need to add TMdB API key as I can't provide my personal one,
+hope this won't affect the test.
+
+To start just run yarn start
+
+There's a bug in the filterGenre function,
+Haven't been able to eliminate it as time have run out for me for this test.
+What's happening is that 2 or more checkboxes doesn't work at same time.
+
+The dropdown and checkboxes don't work together, I didn't see this in requirements, however in real life I assume they should.
+
+I would also add a spinner when the call is happening to API.
+
+One last thing, I had lots of fun doing this :)
+
+All the best to you guys!
+
+
 ## Available Scripts
 
 In the project directory, you can run:
